@@ -1,0 +1,34 @@
+#midiv{
+    justify-content: center;
+    align-items:baseline;
+    display: flex;
+    flex-direction: column;
+    
+
+
+}
+#form{
+    justify-content: center;
+    align-items: center;
+    padding: 4px;
+    display: flex;
+}
+input{
+    border-radius: 2%;
+    background-color: rgb(238, 230, 238);
+}
+#btn{
+    border: 2%;
+    background-color: rgb(59, 11, 78);
+    color: aliceblue;
+    font-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+body{
+    background-color:color-mix(in srgb, purple 9%, rgb(95, 34, 194) 9%);
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
